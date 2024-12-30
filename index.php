@@ -29,7 +29,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Cek Resi Shopee Express" />
-    <meta name="author" content="hanary.adn" />
+    <meta name="author" content="hanaryadn" />
     <!-- Icon -->
     <link rel="icon" type="image/x-icon" href="" />
     <!-- Bootstrap CSS -->
